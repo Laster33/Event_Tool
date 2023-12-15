@@ -1,3 +1,5 @@
 # Event_Tool
-A tool to manage and edit events data for a video game
+StateCraft oyunundaki eventleri yönetmek ve düzenlemek için geliştirilmiş bir araç
+
+
 
