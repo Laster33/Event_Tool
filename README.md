@@ -1,7 +1,7 @@
 # Event_Tool
 StateCraft oyunundaki eventleri yönetmek ve düzenlemek için geliştirilmiş bir araç
 
-Kılavuz:
+Nasıl kullanılır:
 
 -Çalışma yapabilmek için öncelikle Resources klasörünü indirip içindekileri kolay ulaşabileceğiniz bir yere koyun.
 
