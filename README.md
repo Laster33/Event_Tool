@@ -11,5 +11,5 @@ Nasıl kullanılır:
 
 -Sol üstte bulunan "albüm seç" butonuna basıp "album" klasörünü seçin
 
-Not: Şuanda seçim sonuçları kaydedilmemektedir, kaydediliş şekillerini tasarlıyorum. Ayrıca şuanda eventlerin türü sonradan değiştirilemiyor.
+Not: Şuanda seçim sonuçları kaydedilmemektedir, kaydediliş şekillerini değiştirmeyi düşünüyorum. Ayrıca şuanda eventlerin türü sonradan değiştirilemiyor.
 
