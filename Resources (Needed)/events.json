@@ -1,0 +1,1381 @@
+{
+  "A1": [
+    {
+      "h1": "Abolition of the Gold Standards",
+      "pic": "example4.png",
+      "explanation": "The Liberte United Republic is changing the international monetary system based on gold. Instead of the gold standard, the Liberte Dollar Standard is introduced. This means significant import and export problems for developing countries like ours.”, We must adapt as quickly as possible.",
+      "choice1": " We must adapt as quickly as possible.",
+      "choice2": "Let's focus on Eastern trade routes.",
+      "choice3": "Let's simply wait for the market to adjust.",
+      "choice1results": [
+        [
+          "income",
+          -1,
+          true
+        ],
+        [
+          "stability",
+          -1,
+          true
+        ],
+        [
+          "globalThreat",
+          -1,
+          true
+        ],
+        [
+          "rightistView",
+          1
+        ],
+        [
+          "leftistView",
+          -2
+        ]
+      ],
+      "choice2results": [
+        [
+          "income",
+          1,
+          true
+        ],
+        [
+          "stability",
+          1,
+          true
+        ],
+        [
+          "globalThreat",
+          3,
+          true
+        ],
+        [
+          "army",
+          -1,
+          true
+        ],
+        [
+          "rightistView",
+          -4
+        ],
+        [
+          "leftistView",
+          3
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          -3,
+          true
+        ],
+        [
+          "income",
+          -1,
+          true
+        ]
+      ],
+      "choice4": ""
+    },
+    {
+      "h1": "Space Race Accelerates ",
+      "pic": "example2.png",
+      "explanation": "The Liberte United Republic's astronauts became the first humans to set foot on the Moon! The Kolhozya People's Federation will not stay behind and will do everything possible to go beyond this step. We can secure our place in the space race by getting closer to one of these sides!",
+      "choice1": "Let's invest in LUR space activities.",
+      "choice2": "Kolhozya has taken many steps forward, and our investment should be stable.",
+      "choice3": "We can participate as competitors.",
+      "choice4": "Let's focus on our own economy for this race.",
+      "choice1results": [
+        [
+          "income",
+          -1,
+          true
+        ],
+        [
+          "stability",
+          -6,
+          true
+        ],
+        [
+          "globalThreat",
+          -5,
+          true
+        ],
+        [
+          "radicalism",
+          -5,
+          true
+        ],
+        [
+          "rightistView",
+          3
+        ],
+        [
+          "leftistView",
+          1
+        ]
+      ],
+      "choice2results": [
+        [
+          "income",
+          -1,
+          true
+        ],
+        [
+          "stability",
+          -6,
+          true
+        ],
+        [
+          "globalThreat",
+          -3,
+          true
+        ],
+        [
+          "radicalism",
+          -5,
+          true
+        ],
+        [
+          "rightistView",
+          1
+        ],
+        [
+          "leftistView",
+          5
+        ]
+      ],
+      "choice3results": [
+        [
+          "income",
+          -5,
+          true
+        ],
+        [
+          "stability",
+          -24,
+          true
+        ],
+        [
+          "globalThreat",
+          -1,
+          true
+        ],
+        [
+          "radicalism",
+          -25,
+          true
+        ],
+        [
+          "army",
+          -12,
+          true
+        ],
+        [
+          "rightistView",
+          3
+        ],
+        [
+          "leftistView",
+          3
+        ]
+      ],
+      "choice4results": [
+        [
+          "rightistView",
+          -2
+        ],
+        [
+          "leftistView",
+          -2
+        ]
+      ]
+    },
+    {
+      "h1": "Polarization",
+      "pic": "example3.png",
+      "explanation": "Gangs have started to roam our streets! While our economy is in bad shape, right-wing and left-wing groups are blindly convinced that their ideas are right and are staging protests and fights on the streets...",
+      "choice1": "Let's intervene with pepper gas and batons.",
+      "choice2": "If necessary, we should use real bullets to protect our country from hooligans.",
+      "choice3": "Assign army personnel to cities!",
+      "choice4": "Let's wait until the violence subsides, and the police follow standard procedures.",
+      "choice1results": [
+        [
+          "stability",
+          -5,
+          true
+        ],
+        [
+          "radicalism",
+          5,
+          true
+        ],
+        [
+          "rightistView",
+          -1
+        ],
+        [
+          "leftistView",
+          -2
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          -2,
+          true
+        ],
+        [
+          "radicalism",
+          8,
+          true
+        ],
+        [
+          "globalThreat",
+          8,
+          true
+        ],
+        [
+          "leftistView",
+          -5
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          1,
+          true
+        ],
+        [
+          "radicalism",
+          6,
+          true
+        ],
+        [
+          "globalThreat",
+          20,
+          true
+        ],
+        [
+          "army",
+          5,
+          true
+        ],
+        [
+          "rightistView",
+          -3
+        ],
+        [
+          "leftistView",
+          -9
+        ]
+      ],
+      "choice4results": [
+        [
+          "stability",
+          -7,
+          true
+        ],
+        [
+          "radicalism",
+          10,
+          true
+        ],
+        [
+          "globalThreat",
+          5,
+          true
+        ],
+        [
+          "rightistView",
+          -5
+        ],
+        [
+          "leftistView",
+          -2
+        ]
+      ]
+    },
+    {
+      "h1": "Disco or Rock",
+      "pic": "example4.png",
+      "explanation": "New music trends are becoming popular in our country. We can either preserve our culture from these trends or embrace them to assimilate into world culture, perhaps even blend these trends with our own culture and become exporters of these trends.",
+      "choice1": "For now, let's embrace the global trends.",
+      "choice2": "Rock is more compatible with our culture.",
+      "choice3": "Disco can create a happier society.",
+      "choice4": "Let's support artists who blend these trends with our culture.",
+      "choice1results": [
+        [
+          "stability",
+          1,
+          true
+        ],
+        [
+          "radicalism",
+          -1,
+          true
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          2,
+          true
+        ]
+      ],
+      "choice3results": [
+        [
+          "radicalism",
+          -2,
+          true
+        ]
+      ],
+      "choice4results": [
+        [
+          "stability",
+          -3,
+          true
+        ],
+        [
+          "radicalism",
+          -6,
+          true
+        ],
+        [
+          "politicalPower",
+          5
+        ],
+        [
+          "income",
+          -1
+        ]
+      ]
+    },
+    {
+      "h1": "Oil Crisis and Najd's Response",
+      "pic": "example.png",
+      "explanation": "Western countries are supporting the newly established Sephartia due to their opposition to the Najd countries. As a result, the Najd countries are reducing oil production. The whole world will suffer from an oil shortage.",
+      "choice1": "The Najd countries are fighting a just cause!",
+      "choice2": "Sephartia's independence is crucial for us.",
+      "choice3": "We can find new alternatives from the East.",
+      "choice4": "Let's be patient and wait for developments.",
+      "choice1results": [
+        [
+          "stability",
+          -2,
+          true
+        ],
+        [
+          "globalThreat",
+          3,
+          true
+        ],
+        [
+          "income",
+          -2
+        ],
+        [
+          "rightistView",
+          3
+        ],
+        [
+          "leftistView",
+          3
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          -2,
+          true
+        ],
+        [
+          "radicalism",
+          2,
+          true
+        ],
+        [
+          "globalThreat",
+          -7,
+          true
+        ],
+        [
+          "income",
+          -4
+        ],
+        [
+          "rightistView",
+          -1
+        ],
+        [
+          "leftistView",
+          -3
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          5,
+          true
+        ],
+        [
+          "globalThreat",
+          3,
+          true
+        ],
+        [
+          "army",
+          -5,
+          true
+        ],
+        [
+          "rightistView",
+          -5
+        ],
+        [
+          "leftistView",
+          6
+        ]
+      ],
+      "choice4results": [
+        [
+          "stability",
+          -2,
+          true
+        ],
+        [
+          "income",
+          -2
+        ],
+        [
+          "rightistView",
+          -3
+        ],
+        [
+          "leftistView",
+          -3
+        ]
+      ]
+    },
+    {
+      "h1": "Walk Park Protests",
+      "pic": "example.png",
+      "explanation": "One of the few parks in the region will be replaced by a planned mega shopping center. People have taken to the streets, shouting 'Government must resign!'",
+      "choice1": "We have an agreement with mega corporations; disperse the crowd!",
+      "choice2": "Halt the constructions until the protests end.",
+      "choice3": "Whatever the people want should be done!",
+      "choice4": "Redirect the public's anger towards the oil crisis and internal enemies.",
+      "choice1results": [
+        [
+          "stability",
+          8,
+          true
+        ],
+        [
+          "radicalism",
+          12,
+          true
+        ],
+        [
+          "globalThreat",
+          -2,
+          true
+        ],
+        [
+          "politicalPowerMonthly",
+          1
+        ],
+        [
+          "rightistView",
+          -3
+        ],
+        [
+          "leftistView",
+          -6
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          1,
+          true
+        ],
+        [
+          "radicalism",
+          4,
+          true
+        ],
+        [
+          "globalThreat",
+          1,
+          true
+        ],
+        [
+          "politicalPowerMonthly",
+          -1
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          -12,
+          true
+        ],
+        [
+          "radicalism",
+          -15,
+          true
+        ],
+        [
+          "globalThreat",
+          10,
+          true
+        ],
+        [
+          "income",
+          -2
+        ],
+        [
+          "rightistView",
+          4
+        ],
+        [
+          "leftistView",
+          5
+        ]
+      ],
+      "choice4results": [
+        [
+          "stability",
+          7,
+          true
+        ],
+        [
+          "radicalism",
+          20,
+          true
+        ],
+        [
+          "globalThreat",
+          5,
+          true
+        ],
+        [
+          "politicalPowerMonthly",
+          1
+        ]
+      ]
+    },
+    {
+      "h1": "Tiananmen War Developments",
+      "pic": "example.png",
+      "explanation": "The Liberte United Republic has begun bombing all cities, including the capital of Tiananmen, disregarding civilian casualties. The war is intensifying.",
+      "choice1": "A price for the liberation of Tiananmen's people.",
+      "choice2": "Isn't this genocide enough with the villages they bombed?",
+      "choice3": "We will be by LUR's side if our ally needs help.",
+      "choice4": "A war beyond the world doesn't concern us!",
+      "choice1results": [
+        [
+          "stability",
+          1,
+          true
+        ],
+        [
+          "globalThreat",
+          -5,
+          true
+        ],
+        [
+          "leftistView",
+          -8
+        ]
+      ],
+      "choice2results": [
+        [
+          "globalThreat",
+          3,
+          true
+        ],
+        [
+          "leftistView",
+          4
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          1,
+          true
+        ],
+        [
+          "globalThreat",
+          4,
+          true
+        ],
+        [
+          "army",
+          2,
+          true
+        ],
+        [
+          "rightistView",
+          5
+        ],
+        [
+          "leftistView",
+          -10
+        ],
+        [
+          "politicalPower",
+          1
+        ]
+      ],
+      "choice4results": [
+        [
+          "globalThreat",
+          -1,
+          true
+        ]
+      ]
+    },
+    {
+      "h1": "Military Memorandum",
+      "pic": "example.png",
+      "explanation": "Some generals in the army are calling for the government to resign. The spokesman for the armed forces said, 'Our country is deteriorating economically due to corruption and bad decisions in the government. We can only solve this by establishing a technocratic government!'",
+      "choice1": "The purpose of the army is to protect the country, not tarnish democracy!",
+      "choice2": "The memorandum seems reasonable...",
+      "choice3": "",
+      "choice4": "",
+      "choice1results": [
+        [
+          "radicalism",
+          -5,
+          true
+        ],
+        [
+          "army",
+          -5,
+          true
+        ],
+        [
+          "globalThreat",
+          -5,
+          true
+        ],
+        [
+          "politicalPowerMonthly",
+          1
+        ],
+        [
+          "rightistView",
+          10
+        ],
+        [
+          "leftistView",
+          10
+        ]
+      ],
+      "choice2results": [
+        [
+          "radicalism",
+          15,
+          true
+        ],
+        [
+          "army",
+          20,
+          true
+        ],
+        [
+          "globalThreat",
+          10,
+          true
+        ],
+        [
+          "budget",
+          -1,
+          true
+        ],
+        [
+          "politicalPowerMonthly",
+          -1
+        ],
+        [
+          "rightistView",
+          -10
+        ],
+        [
+          "leftistView",
+          -10
+        ]
+      ],
+      "choice3results": [],
+      "choice4results": []
+    },
+    {
+      "h1": "Internet Technology",
+      "pic": "example.png",
+      "explanation": "In a joint project by Western countries, an efficient communication tool that connects computers has been invented. Perhaps, somehow, we can learn about this technology.",
+      "choice1": "For now, let's just monitor the developments.",
+      "choice2": "Offer an investment and start internet infrastructure activities in our country.",
+      "choice3": "Let our spies bring us this technology and try to use it for intelligence and army purposes.",
+      "choice4": "Seems like an unnecessary development!",
+      "choice1results": [
+        [
+          "politicalPower",
+          -2
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          -15,
+          true
+        ],
+        [
+          "radicalism",
+          -7,
+          true
+        ],
+        [
+          "army",
+          7,
+          true
+        ],
+        [
+          "globalThreat",
+          -2,
+          true
+        ],
+        [
+          "politicalPower",
+          1
+        ],
+        [
+          "income",
+          -1
+        ],
+        [
+          "rightistView",
+          2
+        ],
+        [
+          "leftistView",
+          2
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          -3,
+          true
+        ],
+        [
+          "army",
+          7,
+          true
+        ],
+        [
+          "globalThreat",
+          13,
+          true
+        ],
+        [
+          "rightistView",
+          2
+        ],
+        [
+          "leftistView",
+          2
+        ]
+      ],
+      "choice4results": [
+        [
+          "radicalism",
+          5,
+          true
+        ],
+        [
+          "stability",
+          3,
+          true
+        ],
+        [
+          "rightistView",
+          -3
+        ],
+        [
+          "leftistView",
+          -3
+        ],
+        [
+          "politicalPower",
+          5
+        ]
+      ]
+    },
+    {
+      "h1": "Terrorist Attack on the Olympics",
+      "pic": "example.png",
+      "explanation": "Following Sephartia's takeover of some Najd territories, some people living in the region committed acts of terrorism by bombing the heart of the Olympics. The entire Sephartia Olympic team was killed, and the world is in shock.",
+      "choice1": "Let's condemn terrorism, there's no reasonable explanation for this.",
+      "choice2": "Damn the occupiers, we should support these freedom-loving groups!",
+      "choice3": "Let's help in cleaning up these terrorists as much as possible.",
+      "choice4": "This is not our fight.",
+      "choice1results": [
+        [
+          "stability",
+          3,
+          true
+        ],
+        [
+          "radicalism",
+          -3,
+          true
+        ],
+        [
+          "army",
+          2,
+          true
+        ],
+        [
+          "globalThreat",
+          -3,
+          true
+        ],
+        [
+          "politicalPower",
+          -2
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          -1,
+          true
+        ],
+        [
+          "radicalism",
+          -12,
+          true
+        ],
+        [
+          "army",
+          1,
+          true
+        ],
+        [
+          "globalThreat",
+          5,
+          true
+        ],
+        [
+          "income",
+          -1
+        ],
+        [
+          "politicalPowerMonthly",
+          2
+        ],
+        [
+          "rightistView",
+          2
+        ],
+        [
+          "leftistView",
+          2
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          5,
+          true
+        ],
+        [
+          "radicalism",
+          12,
+          true
+        ],
+        [
+          "army",
+          5,
+          true
+        ],
+        [
+          "globalThreat",
+          -5,
+          true
+        ],
+        [
+          "income",
+          1
+        ],
+        [
+          "politicalPower",
+          -4
+        ],
+        [
+          "rightistView",
+          -2
+        ],
+        [
+          "leftistView",
+          -2
+        ]
+      ],
+      "choice4results": [
+        [
+          "stability",
+          1,
+          true
+        ],
+        [
+          "radicalism",
+          -1,
+          true
+        ],
+        [
+          "globalThreat",
+          -1,
+          true
+        ],
+        [
+          "politicalPower",
+          -1
+        ],
+        [
+          "rightistView",
+          -1
+        ],
+        [
+          "leftistView",
+          -1
+        ]
+      ]
+    },
+    {
+      "h1": "Street Wars",
+      "pic": "example.png",
+      "explanation": "The tension during Labor Day has spread everywhere, and the rebellion is imminent. Right-wing and left-wing groups have armed themselves and clashed with each other in Walk Park. The police forces are inadequate in handling this conflict!",
+      "choice1": "If necessary, use real bullets and automatic rifles to suppress the traitors!",
+      "choice2": "The right-wing factions have no respect for workers' and human rights; they are terrorists!",
+      "choice3": "The place for workers is in factories; these armed people in the streets are terrorists!",
+      "choice4": "Send army personnel to the scene immediately!",
+      "choice1results": [
+        [
+          "stability",
+          -5,
+          true
+        ],
+        [
+          "radicalism",
+          10,
+          true
+        ],
+        [
+          "globalThreat",
+          8,
+          true
+        ],
+        [
+          "politicalPower",
+          2
+        ],
+        [
+          "rightistView",
+          -4
+        ],
+        [
+          "leftistView",
+          -4
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          -3,
+          true
+        ],
+        [
+          "radicalism",
+          15,
+          true
+        ],
+        [
+          "globalThreat",
+          4,
+          true
+        ],
+        [
+          "politicalPower",
+          5
+        ],
+        [
+          "rightistView",
+          -10
+        ],
+        [
+          "leftistView",
+          4
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          -4,
+          true
+        ],
+        [
+          "radicalism",
+          14,
+          true
+        ],
+        [
+          "globalThreat",
+          3,
+          true
+        ],
+        [
+          "politicalPower",
+          5
+        ],
+        [
+          "rightistView",
+          4
+        ],
+        [
+          "leftistView",
+          -10
+        ]
+      ],
+      "choice4results": [
+        [
+          "stability",
+          -1,
+          true
+        ],
+        [
+          "radicalism",
+          18,
+          true
+        ],
+        [
+          "globalThreat",
+          15,
+          true
+        ],
+        [
+          "army",
+          5,
+          true
+        ],
+        [
+          "politicalPower",
+          1
+        ],
+        [
+          "rightistView",
+          -7
+        ],
+        [
+          "leftistView",
+          -7
+        ]
+      ]
+    },
+    {
+      "h1": "Coup Attempt",
+      "pic": "example.png",
+      "explanation": "A faction in the army attempted a coup, taking control of the state channel and broadcasting the following message: 'The government is incapable of resolving the internal turmoil or economic problems in our country! The situation is deteriorating, and army intervention has become necessary. Peaceful days will soon come for Altayakut'.",
+      "choice1": "The government must resign! The government must resign!",
+      "choice2": "Democracy and the will of the people should prevail!",
+      "choice3": "",
+      "choice4": "",
+      "choice1results": [
+        [
+          "rightistView",
+          -10
+        ],
+        [
+          "leftistView",
+          -10
+        ]
+      ],
+      "choice2results": [
+        [
+          "rightistView",
+          10
+        ],
+        [
+          "leftistView",
+          10
+        ]
+      ],
+      "choice3results": [],
+      "choice4results": []
+    }
+  ],
+  "A2": [
+    {
+      "h1": "Labor Strikes due to Inflation",
+      "pic": "example.png",
+      "explanation": " As stability wanes, workers are going on strike due to inflation and escalating economic hardships. This process could further push our economy downhill.",
+      "conditions": [
+        "stability",
+        "<",
+        55
+      ],
+      "recieved": false,
+      "choice1": "We should ensure the return of workers to their jobs by giving them their rights.",
+      "choice2": "This treason should be resolved through the harsh intervention of law enforcement!",
+      "choice3": "Let them see that issues cannot be resolved through strikes.",
+      "choice1results": [
+        [
+          "stability",
+          -5,
+          true
+        ],
+        [
+          "radicalism",
+          -5,
+          true
+        ],
+        [
+          "globalThreat",
+          -3,
+          true
+        ],
+        [
+          "income",
+          -1
+        ],
+        [
+          "politicPointMonthly",
+          1
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          -3,
+          true
+        ],
+        [
+          "radicalism",
+          7,
+          true
+        ],
+        [
+          "globalThreat",
+          4,
+          true
+        ],
+        [
+          "income",
+          1
+        ],
+        [
+          "politicPointMonthly",
+          -1
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          -5,
+          true
+        ],
+        [
+          "globalThreat",
+          2,
+          true
+        ],
+        [
+          "income",
+          -1
+        ],
+        [
+          "politicPointMonthly",
+          -1
+        ]
+      ]
+    },
+    {
+      "h1": "Stagnant Economy",
+      "pic": "example.png",
+      "explanation": " With the stability not declining as much as expected, our economy has become stagnant, and we need to find solutions even for the short term.",
+      "conditions": [
+        "stability",
+        ">",
+        55
+      ],
+      "recieved": false,
+      "choice1": "Promoting Development through Trade Agreements ",
+      "choice2": "Implementing Tax Reductions and Infrastructure Investments",
+      "choice3": "Attempting to Boost Exports",
+      "choice1results": [
+        [
+          "stability",
+          5,
+          true
+        ],
+        [
+          "radicalism",
+          -1,
+          true
+        ],
+        [
+          "globalThreat",
+          -7,
+          true
+        ],
+        [
+          "income",
+          1
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          6,
+          true
+        ],
+        [
+          "radicalism",
+          -5,
+          true
+        ],
+        [
+          "globalThreat",
+          2,
+          true
+        ],
+        [
+          "income",
+          -1
+        ],
+        [
+          "politicPointMonthly",
+          1
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          4,
+          true
+        ],
+        [
+          "radicalism",
+          -2,
+          true
+        ],
+        [
+          "globalThreat",
+          -4,
+          true
+        ],
+        [
+          "income",
+          1
+        ]
+      ],
+      "choice4": ""
+    }
+  ],
+  "B": [
+    {
+      "h1": "Approaching Elections",
+      "pic": "example.png",
+      "explanation": "With only a few months left until the elections, the country's tumultuous atmosphere could determine our victory. The election budgets to be distributed among the parties have been presented to the parliament.",
+      "choice1": "Budgets should be allocated to the parties based on their recent vote percentages.",
+      "choice2": "All parties that surpass the electoral threshold and enter the parliament should receive nearly equal budgets.",
+      "choice3": "Parties without sufficient budget may choose not to participate in the election; it's not the government's responsibility.",
+      "choice4": "Budgets should be allocated to the parties based on current and unbiased poll results.",
+      "choice1results": [
+        [
+          "stability",
+          -1,
+          true
+        ],
+        [
+          "radicalism",
+          2,
+          true
+        ],
+        [
+          "politicPointMonthly",
+          2
+        ]
+      ],
+      "choice2results": [
+        [
+          "stability",
+          -1,
+          true
+        ],
+        [
+          "radicalism",
+          -4,
+          true
+        ],
+        [
+          "income",
+          1
+        ],
+        [
+          "easternBloc",
+          -3
+        ],
+        [
+          "westernBloc",
+          5
+        ]
+      ],
+      "choice3results": [
+        [
+          "stability",
+          5,
+          true
+        ],
+        [
+          "radicalism",
+          5,
+          true
+        ],
+        [
+          "income",
+          -1
+        ],
+        [
+          "politicPointMonthly",
+          -1
+        ],
+        [
+          "easternBloc",
+          5
+        ],
+        [
+          "westernBloc",
+          -3
+        ]
+      ],
+      "choice4results": [
+        [
+          "stability",
+          -1,
+          true
+        ],
+        [
+          "radicalism",
+          -3,
+          true
+        ],
+        [
+          "politicPointMonthly",
+          1
+        ]
+      ]
+    }
+  ]
+}
