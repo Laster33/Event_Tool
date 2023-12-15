@@ -9,3 +9,5 @@ StateCraft oyunundaki eventleri yönetmek ve düzenlemek için geliştirilmiş b
 
 -Sol üstte bulunan "albüm seç" butonuna basıp "album" klasörünü seçin
 
+Not: Şuanda seçim sonuçları kaydedilmemektedir, kaydediliş şekillerini tasarlıyorum
+
