@@ -5,5 +5,7 @@ StateCraft oyunundaki eventleri yönetmek ve düzenlemek için geliştirilmiş b
 
 -Compiled klasörünü indirip içindeki Event_Tool.exe yi çalıştırın.
 
+-Sol üstte bulunan "dosya seç" butonuna basıp "events.json" dosyasını seçin
 
+-Sol üstte bulunan "albüm seç" butonuna basıp "album" klasörünü seçin
 
