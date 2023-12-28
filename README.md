@@ -11,5 +11,3 @@ How to use it:
 
 -Press the "select album" button at the top left and select the "album" folder
 
-Not: Şuanda seçim sonuçları kaydedilmemektedir, kaydediliş şekillerini değiştirmeyi düşünüyorum. Ayrıca şuanda eventlerin türü sonradan değiştirilemiyor.
-
