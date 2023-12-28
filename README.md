@@ -7,7 +7,7 @@ How to use it:
 
 -Download the Compiled folder and run Event_Tool.exe inside.
 
--Click on the "select file" button on the top left and select the "path.json" file
+-Click on the "select file" button on the top left and select the "events.json" file
 
 -Press the "select album" button at the top left and select the "album" folder
 
