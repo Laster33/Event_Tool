@@ -1,15 +1,15 @@
 # Event_Tool
-StateCraft oyunundaki eventleri yönetmek ve düzenlemek için geliştirilmiş bir araç
+A tool for managing and organizing events in StateCraft
 
-Nasıl kullanılır:
+How to use it:
 
--Çalışma yapabilmek için öncelikle Resources klasörünü indirip içindekileri kolay ulaşabileceğiniz bir yere koyun.
+-In order to work, first download the Resources folder and put the contents within easy reach.
 
--Compiled klasörünü indirip içindeki Event_Tool.exe yi çalıştırın.
+-Download the Compiled folder and run Event_Tool.exe inside.
 
--Sol üstte bulunan "dosya seç" butonuna basıp "events.json" dosyasını seçin
+-Click on the "select file" button on the top left and select the "events.json" file
 
--Sol üstte bulunan "albüm seç" butonuna basıp "album" klasörünü seçin
+-Press the "select album" button at the top left and select the "album" folder
 
 Not: Şuanda seçim sonuçları kaydedilmemektedir, kaydediliş şekillerini değiştirmeyi düşünüyorum. Ayrıca şuanda eventlerin türü sonradan değiştirilemiyor.
 
